@@ -64,8 +64,8 @@ h2.title{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:32px;m
 .notes-kicker{font-size:12px;letter-spacing:.24em;color:var(--mood,var(--gold-dark));text-transform:uppercase;}
 .notes-row{display:flex;justify-content:center;gap:32px;flex-wrap:wrap;}
 .note{display:flex;flex-direction:column;align-items:center;gap:10px;width:130px;}
-.note .circle{width:120px;height:120px;border-radius:50%;overflow:hidden;background:var(--surface);border:1px dashed var(--gold-soft);display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--ink);opacity:.6;text-align:center;padding:6px;}
-.note .circle img{width:100%;height:100%;object-fit:cover;}
+.note .circle{width:120px;height:120px;border-radius:50%;overflow:hidden;background:#fff;border:1px solid var(--gold-soft);display:flex;align-items:center;justify-content:center;padding:14px;}
+.note .circle img{width:100%;height:100%;object-fit:contain;}
 .note span.label{font-size:11px;letter-spacing:.04em;opacity:.75;text-transform:uppercase;}
 
 .sku-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:28px;}

@@ -13,7 +13,8 @@ Sin frameworks, sin JavaScript, sin build. Solo HTML + CSS + imágenes — ábre
 
 - **Textos y precios**: ábrelos con cualquier editor y cambia el texto directamente en el HTML.
 - **Fotos**: reemplaza el archivo dentro de `images/` con el mismo nombre, o cambia el `src="images/..."` en el HTML por el nombre de tu nueva foto.
-- **Notas de fragancia y variantes de producto** (Wax Melt individual / Set x3): aún no tienen foto real — están marcadas como "Foto: ..." dentro de cada página de aroma. Agrega tu imagen en `images/` y reemplaza ese bloque por `<img src="images/tu-foto.jpg" alt="...">`.
+- **Notas de fragancia**: las ilustraciones están en `images/icons/` (PNG con fondo transparente). Para cambiar una, reemplaza el archivo con el mismo nombre.
+- **Variantes de producto** (Wax Melt individual / Set x3): aún no tienen foto real — están marcadas como "Foto: ..." dentro de cada página de aroma. Agrega tu imagen en `images/` y reemplaza ese bloque por `<img src="images/tu-foto.jpg" alt="...">`.
 - **Número de WhatsApp**: es `573054169214`, aparece en los enlaces `href="https://wa.me/573054169214..."` — reemplázalo si cambia.
 
 ## Cómo subirlo
